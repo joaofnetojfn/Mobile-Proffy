@@ -25,7 +25,7 @@ Sou um FullStack Developer :computer:
 
 <div align="center">
   <sub>O NLW #2 projeto. Construído com ❤︎ por
-    <a href="https://github.com/joaoferreiranetojfn">João Ferreira Neto</a> and
+    <a href="https://github.com/joaofnetojfn">João Ferreira Neto</a> and
     <a href="https://github.com/joaofnetojfn/Mobile-Proffy/graphs/contributors">
       contributors
     </a>
