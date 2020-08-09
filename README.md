@@ -54,7 +54,7 @@ Sou um FullStack Developer :computer:
 Esse projeto foi feito utilizando as seguintes tecnologias:
 
 * [Typescript](https://www.typescriptlang.org/)      
-* [ReactNative](https://reactnative.org/)      
+* [ReactNative](https://reactnative.dev/)      
 * [Expo](https://expo.io/)       
 * [Express](https://expressjs.com/) 
 
